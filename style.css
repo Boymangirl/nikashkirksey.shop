@@ -2,6 +2,8 @@
   0%{ opacity: 0;}
   100%{opacity: 1;}
 }
+
+
 .fade-in-fade-out{
   animation: fade-inout 5s;
   font-size: 5em;
