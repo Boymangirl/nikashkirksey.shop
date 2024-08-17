@@ -13,9 +13,9 @@
 
 .button1{
   display: flex;
-  justify-content: center;
+  
   align-items: center;
-  min-height: 25vh;
+  min-height: 100vh;
   background: #27282c;
 }
 a{
