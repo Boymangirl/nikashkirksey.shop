@@ -11,7 +11,13 @@
   100%{opacity: 1;}
 }
 
-
+.button1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #27282c;
+}
 
 .fade-in-fade-out{
   animation: fade-inout 5s;
