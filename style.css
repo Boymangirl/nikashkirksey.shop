@@ -16,6 +16,9 @@
 .body{
   background: #414141;
 }
+.red{
+  color: #FF0000;
+}
 .button1{
    
   display: flex;
