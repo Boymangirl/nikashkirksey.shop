@@ -4,6 +4,6 @@
 }
 .fade-in-fade-out{
   animation: fade-inout 5s infinite alternate;
-  font-size : 5em;
+  font-size: 5em;
   text-allign: center;
 }
