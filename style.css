@@ -11,13 +11,13 @@
   100%{opacity: 1;}
 }
 .head{
-  background: #414141;
+  background: grey;
 }
 .body{
-  background: #414141;
+  background: grey;
 }
 .red{
-  color: #FF0000;
+  color: red;
 }
 .button1{
    
