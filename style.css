@@ -21,6 +21,9 @@
 
   
 }
+.lightGray{
+  background: #949494;
+}
 .button1{
    
   display: flex;
