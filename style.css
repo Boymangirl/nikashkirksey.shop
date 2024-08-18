@@ -67,11 +67,14 @@ a span{
   z-index: 1;
 }
 
-.belowtitle{
-  text-allign: center;
-  position: relative;
-  top: 40px; left: 40px;
+
+
+.belowtext{
+  display: flex;
+  align-self: center;
+  
 }
+
 .fade-in-fade-out{
   animation: fade-inout 5s;
   font-size: 5em;
