@@ -22,7 +22,7 @@
   
 }
 .lightGrey{
-  background: #949494;
+  background: #d3d3d3;
 }
 .button1{
    
@@ -30,7 +30,7 @@
   position: fixed;
   justify-content: center;
   align-items: center;
-  background: #949494;
+  background: #d3d3d3;
 }
 a{
   position: relative;
