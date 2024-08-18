@@ -72,7 +72,7 @@ a span{
 .belowtext{
   display: flex;
   align-self: center;
-  
+  top: 50%;
 }
 
 .fade-in-fade-out{
