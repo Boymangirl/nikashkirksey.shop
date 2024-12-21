@@ -68,13 +68,6 @@ a span{
 }
 
 
-
-.belowtext{
-  display: flex;
-  align-self: center;
-  top: 500px;
-}
-
 .fade-in-fade-out{
   animation: fade-inout 5s;
   font-size: 5em;
